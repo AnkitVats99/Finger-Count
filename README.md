@@ -2,10 +2,10 @@
 A Web Application that can detect a hand,segment the hand and count the number os fingers being held.
 
 ## Pre Requisite
--> OpenCV
--> Numpy
--> Other Py Libraries
--> Covex Hull
+-> OpenCV <br />
+-> Numpy <br />
+-> Other Py Libraries <br />
+-> Covex Hull <br />
 
 ## Project Flow
 -> Grab an ROI(Region of Intrest) <br />
