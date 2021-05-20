@@ -1,6 +1,12 @@
 # Finger-Count
 A Web Application that can detect a hand,segment the hand and count the number os fingers being held.
 
+## Pre Requisite
+-> OpenCV
+-> Numpy
+-> Other Py Libraries
+-> Covex Hull
+
 ## Project Flow
 -> Grab an ROI(Region of Intrest) <br />
 -> Calculate a running average background value for 60 frames of video. <br />
