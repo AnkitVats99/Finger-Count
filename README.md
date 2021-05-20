@@ -7,3 +7,4 @@ A Web Application that can detect a hand,segment the hand and count the number o
 -> Hand enters in ROI <br />
 -> Thresholding is done <br />
 -> CONVEX HULL to draw polygon around the hand. <br />
+
