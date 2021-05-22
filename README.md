@@ -1,4 +1,4 @@
-# Finger Count
+# How Many?
 A Web Application that can detect a hand,segment the hand and count the number os fingers being held.
 
 ## Pre Requisite
