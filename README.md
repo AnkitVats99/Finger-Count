@@ -8,7 +8,7 @@ A Web Application that can detect a hand,segment the hand and count the number o
 -> Covex Hull <br />
 
 ## Project Flow
--> Grab an ROI(Region of Intrest) <br />
+-> Grab a ROI(Region of Intrest) <br />
 -> Calculate a running average background value for 60 frames of video. <br />
 -> Hand enters in ROI <br />
 -> Thresholding is done <br />
